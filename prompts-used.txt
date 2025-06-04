@@ -1,0 +1,37 @@
+AI Prompt Log – Stock Analytics App
+Built by Marley Diallo | June 2025
+
+This project was built using AI copilots such as ChatGPT-4, Claude 3, and Gemini 1.5 to simulate fast AI-native development. Below are the key prompts I used to accelerate development.
+
+---
+
+1. "Create a dark-mode stock analytics web app using Next.js and FastAPI that fetches financial data from the FMP API."
+
+2. "Generate a homepage with a search bar that routes users to /company/[ticker] when they enter a stock symbol."
+
+3. "Use Chart.js in a Next.js page to display the last 30 days of closing stock prices based on FMP API data."
+
+4. "How do I fetch and display a company profile from Financial Modeling Prep using FastAPI?"
+
+5. "Add error handling for invalid stock tickers and display a custom error message if no data is returned."
+
+6. "Make the entire UI responsive and investor-focused with a clean dark aesthetic inspired by Robinhood."
+
+7. "Format large financial numbers like 87423000000 as readable strings like $87.4B in JavaScript."
+
+8. "Write a simple FastAPI backend route that fetches financials from FMP and sends it to a frontend Next.js component."
+
+9. "Add a styled table that shows income statements (revenue, gross profit, net income) for the last 5 years."
+
+10. "Help me write a professional README that includes tech stack, features, setup, and links to Loom and GitHub."
+
+11. "Create a list of AI prompts used in this project for submission documentation."
+
+---
+
+AI Usage Summary:
+- Copilots accelerated development time by generating scaffolds, error handling, styling, and data visualizations.
+- AI was used to debug, design wireframes, and maintain clean full-stack structure.
+- The app was completed in under 4 hours as a proof-of-concept for fast, AI-native engineering.
+
+
