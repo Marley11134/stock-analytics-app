@@ -1,0 +1,30 @@
+{
+  "name": "stock-analytics-app",
+  "version": "1.0.0",
+  "description": "Stock analytics app demo using Next.js and FastAPI",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marley11134/stock-analytics-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Marley11134/stock-analytics-app/issues"
+  },
+  "homepage": "https://github.com/Marley11134/stock-analytics-app#readme",
+  "dependencies": {
+    "chart.js": "^4.4.9",
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.1.0"
+  }
+}
